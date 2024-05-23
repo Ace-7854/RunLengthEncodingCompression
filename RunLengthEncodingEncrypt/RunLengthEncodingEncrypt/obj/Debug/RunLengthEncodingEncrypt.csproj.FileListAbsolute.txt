@@ -1,0 +1,7 @@
+C:\Users\ediso\Desktop\Programs\RunLengthEncodingEncrypt\RunLengthEncodingEncrypt\bin\Debug\RunLengthEncodingEncrypt.exe.config
+C:\Users\ediso\Desktop\Programs\RunLengthEncodingEncrypt\RunLengthEncodingEncrypt\bin\Debug\RunLengthEncodingEncrypt.exe
+C:\Users\ediso\Desktop\Programs\RunLengthEncodingEncrypt\RunLengthEncodingEncrypt\bin\Debug\RunLengthEncodingEncrypt.pdb
+C:\Users\ediso\Desktop\Programs\RunLengthEncodingEncrypt\RunLengthEncodingEncrypt\obj\Debug\RunLengthEncodingEncrypt.csproj.AssemblyReference.cache
+C:\Users\ediso\Desktop\Programs\RunLengthEncodingEncrypt\RunLengthEncodingEncrypt\obj\Debug\RunLengthEncodingEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\ediso\Desktop\Programs\RunLengthEncodingEncrypt\RunLengthEncodingEncrypt\obj\Debug\RunLengthEncodingEncrypt.exe
+C:\Users\ediso\Desktop\Programs\RunLengthEncodingEncrypt\RunLengthEncodingEncrypt\obj\Debug\RunLengthEncodingEncrypt.pdb
